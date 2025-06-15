@@ -8,7 +8,7 @@
         public static function getConn()
         {
             if (!isset(self::$conn)) {
-                self::$conn = new mysqli("localhost", "root", "", "estoque");
+                self::$conn = new mysqli("localhost", "root", "drag1205", "estoq");
 
                 // Verifica se houve erro de conexão
                 if (self::$conn->connect_error) {
