@@ -40,6 +40,10 @@
                             <i class="bi bi-box-arrow-in-right"></i> Entrar
                         </button>
                     </div>
+                    <div>
+                        Email: teste@teste.com
+                        Senha: 123
+                    </div>
                 </form>
             </div>
         </div>
